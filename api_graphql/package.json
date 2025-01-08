@@ -1,0 +1,20 @@
+{
+  "name": "tp-posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "graphql": "^16.9.0",
+    "mysql2": "^3.11.3",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.4"
+  }
+}
